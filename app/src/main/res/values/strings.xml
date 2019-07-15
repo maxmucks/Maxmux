@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Maxmux</string>
+    <string name="about_alc">About  ALC</string>
+    <string name="my_profile">My  Profile</string>
+    <string name="my_photo">My Photo</string>
+    <string name="nathan_ngari">Nathan Ngari</string>
+    <string name="track">Track:</string>
+    <string name="country">Country:</string>
+    <string name="email">Email:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="android">Android</string>
+    <string name="kenya">Kenya</string>
+    <string name="maxmucks_gmail_com">maxmucks@gmail.com</string>
+    <string name="_254724476357">254724476357</string>
+    <string name="slack_user"> @Nathan Ngari</string>
+    <string name="welcome_to_alc_4_0">Welcome To ALC 4.0</string>
+</resources>
